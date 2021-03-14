@@ -6,7 +6,7 @@ namespace auxil
 	{
 		srand((unsigned)time(NULL));
 	};
-	double dget(double rmin, double rmax) // получитьслучайноечисло
+	double dget(double rmin, double rmax) // получить случайное число
 	{
 		return ((double)rand() / (double)RAND_MAX) * (rmax - rmin) + rmin;
 	};
