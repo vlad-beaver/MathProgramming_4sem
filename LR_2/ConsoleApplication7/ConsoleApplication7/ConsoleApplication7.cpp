@@ -1,6 +1,9 @@
 ﻿#include <tchar.h>
 #include <iostream>
 #include <iomanip> 
+#include <ctime>
+#include <algorithm>
+#include <cstdlib>
 #include "Salesman.h"
 #define N 10
 
@@ -26,8 +29,10 @@ int _tmain(int argc, _TCHAR* argv[])
             else {
                 array[i][j] = Random(10, 300);
             }
+           /* srand(time(0));*/
         }
     }
+
 
     int r[N];                     // результат 
     int s = salesman(
