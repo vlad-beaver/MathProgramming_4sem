@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Combi.cpp" />
     <ClCompile Include="mp2_2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Combi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

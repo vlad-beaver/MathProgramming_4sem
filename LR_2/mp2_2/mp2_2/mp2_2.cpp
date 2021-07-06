@@ -1,42 +1,37 @@
-﻿#include <iostream>
-using namespace std;
-bool NextSet(int* a, int n, int m)
+﻿// Main      
+#include <iostream>
+#include "Combi.h"
+#include <tchar.h>
+int _tmain(int argc, _TCHAR* argv[])
 {
-    int j = m - 1;
-    while (a[j] == n && j >= 0) j--;
-    if (j < 0) return false;
-    if (a[j] >= n)
-        j--;
-    a[j]++;
-    if (j == m - 1) return true;
-   for (int k = j + 1; k < m; k++)
-        a[k] = a[j];
-    return true;
-}
-void Print(int* a, int n)
-{
-    static int num = 1;
-    cout.width(3);
-    cout << num++ << ": ";
-    for (int i = 0; i < n; i++)
-        cout << a[i] << " ";
-    cout << endl;
-}
-int main()
-{
-    int n, m, * a;
-    cout << "N = ";
-    cin >> n;
-    cout << "M = ";
-    cin >> m;
-    int h = n > m ? n : m; // размер массива а выбирается как max(n,m)
-    a = new int[h];
-for (int i = 0; i < h; i++)
-        a[i] = 1;
-    Print(a, m);
-    while (NextSet(a, n, m))
-        Print(a, m);
-    cin.get(); cin.get();
+    setlocale(LC_ALL, "rus");
+    char  AA[][2] = { "A", "B", "C", "D", "E" };
+    std::cout << std::endl << " --- Генератор сочетаний ---";
+    std::cout << std::endl << "Исходное множество: ";
+    std::cout << "{ ";
+    for (int i = 0; i < sizeof(AA) / 2; i++)
+
+        std::cout << AA[i] << ((i < sizeof(AA) / 2 - 1) ? ", " : " ");
+    std::cout << "}";
+    std::cout << std::endl << "Генерация сочетаний ";
+    combi::xcombination xc(sizeof(AA) / 2, 3);
+    std::cout << "из " << xc.n << " по " << xc.m;
+    int  n = xc.getfirst();
+    while (n >= 0)
+    {
+
+        std::cout << std::endl << xc.nc << ": { ";
+
+        for (int i = 0; i < n; i++)
+
+
+            std::cout << AA[xc.ntx(i)] << ((i < n - 1) ? ", " : " ");
+
+        std::cout << "}";
+
+        n = xc.getnext();
+    };
+    std::cout << std::endl << "всего: " << xc.count() << std::endl;
+    system("pause");
     return 0;
 }
-

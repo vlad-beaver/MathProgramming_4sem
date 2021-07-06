@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <cstdlib>
 #include "Salesman.h"
-#define N 10
+#define N 5
 
 int Random(int min, int max) {
     return min + rand() % (max - min);
@@ -16,9 +16,9 @@ int _tmain(int argc, _TCHAR* argv[])
     setlocale(LC_ALL, "rus");
     int array[N][N];
 
-    for (int i = 0; i < 10; ++i)
+    for (int i = 0; i < N; ++i)
     {
-        for (int j = 0; j < 10; ++j)
+        for (int j = 0; j < N; ++j)
         {
             if (i == j) {
                 array[i][j] = 0;
@@ -29,7 +29,7 @@ int _tmain(int argc, _TCHAR* argv[])
             else {
                 array[i][j] = Random(10, 300);
             }
-           /* srand(time(0));*/
+            /*srand(time(0));*/
         }
     }
 

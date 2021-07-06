@@ -1,0 +1,35 @@
+D:\MP\MP 4\MP_4\MP_4\bin\Debug\MP_4.exe.config
+D:\MP\MP 4\MP_4\MP_4\bin\Debug\MP_4.exe
+D:\MP\MP 4\MP_4\MP_4\bin\Debug\MP_4.pdb
+D:\MP\MP 4\MP_4\MP_4\obj\Debug\MP_4.csprojAssemblyReference.cache
+D:\MP\MP 4\MP_4\MP_4\obj\Debug\MP_4.csproj.CoreCompileInputs.cache
+D:\MP\MP 4\MP_4\MP_4\obj\Debug\MP_4.exe
+D:\MP\MP 4\MP_4\MP_4\obj\Debug\MP_4.pdb
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\bin\Debug\MP_4.exe.config
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\bin\Debug\MP_4.exe
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\bin\Debug\MP_4.pdb
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\obj\Debug\MP_4.csprojAssemblyReference.cache
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\obj\Debug\MP_4.csproj.CoreCompileInputs.cache
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\obj\Debug\MP_4.exe
+D:\Subject\Math Prog\MP 4\MP_4\MP_4\obj\Debug\MP_4.pdb
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\bin\Debug\MP_4.exe.config
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\bin\Debug\MP_4.exe
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\bin\Debug\MP_4.pdb
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\obj\Debug\MP_4.csprojAssemblyReference.cache
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\obj\Debug\MP_4.csproj.CoreCompileInputs.cache
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\obj\Debug\MP_4.exe
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\obj\Debug\MP_4.pdb
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\bin\Debug\MP_4.exe.config
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\bin\Debug\MP_4.exe
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\bin\Debug\MP_4.pdb
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\obj\Debug\MP_4.csprojAssemblyReference.cache
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\obj\Debug\MP_4.csproj.CoreCompileInputs.cache
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\obj\Debug\MP_4.exe
+D:\Dowlands\Math_Prog\Math_Programming-Labs-master\MP 4\MP_4\MP_4\MP_4\obj\Debug\MP_4.pdb
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\bin\Debug\MP_4.exe.config
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\bin\Debug\MP_4.exe
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\bin\Debug\MP_4.pdb
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\obj\Debug\MP_4.csprojAssemblyReference.cache
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\obj\Debug\MP_4.csproj.CoreCompileInputs.cache
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\obj\Debug\MP_4.exe
+C:\Asus\Учеба\Мат Прога\labs\4\MP_4\MP_4\obj\Debug\MP_4.pdb
